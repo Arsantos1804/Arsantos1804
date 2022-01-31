@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on front and back end
 - 🌱 I’m currently learning Data Science
-- 📫 How to reach me: https://www.linkedin.com/in/alexandre-rodrigues-dos-santos-0753738a
+- 📫 How to reach me: ars1804@yahoo.com.br
 - 😄 Pronouns: He/His
 
 ## 
