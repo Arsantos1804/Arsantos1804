@@ -1,4 +1,4 @@
-### Hi there i´m Alexandre Rodrigues 👋
+### Olá eu sou Alexandre Rodrigues 👋
 
 
 - 🔭 Atualmente trabalhando com front e back end
