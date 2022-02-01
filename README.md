@@ -2,6 +2,7 @@
 
 
 - 🔭 Atualmente trabalhando com front e back end
+- 🎲 Banco de Dados My SQL e MongoDB
 - 🌱 Estudando Ciência de Dados
 - 📫 Como me encontrar: ars1804@yahoo.com.br
 - 😄 Pronomes: Ele/Dele
