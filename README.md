@@ -1,10 +1,10 @@
 ### Hi there i´m Alexandre Rodrigues 👋
 
 
-- 🔭 I’m currently working on front and back end
-- 🌱 I’m currently learning Data Science
-- 📫 How to reach me: ars1804@yahoo.com.br
-- 😄 Pronouns: He/His
+- 🔭 Atualmente trabalhando com front e back end
+- 🌱 Estudando Ciência de Dados
+- 📫 Como me encontrar: ars1804@yahoo.com.br
+- 😄 Pronomes: Ele/Dele
 
 ## 
 <div align="center">
