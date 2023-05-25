@@ -1,7 +1,7 @@
 ### Olá eu sou Alexandre Rodrigues 👋
 
 
-- 🔭 Atualmente trabalhando com back end
+- 🔭 Atualmente Buscando Oportunidades de Emprego
 - 🎲 Banco de Dados My SQL e MongoDB
 - 🌱 Estudando Ciência de Dados
 - 📫 Como me encontrar: ars1804@yahoo.com.br
