@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente Buscando Oportunidades de Emprego
 - 🎲 Banco de Dados My SQL e MongoDB
-- 🌱 Estudando Desenvolvimento Web
+- 🌱 Estudando Cloud Computing e I.A.
 - 📫 Como me encontrar: ars1804@yahoo.com.br
 - 😄 Pronomes: Ele/Dele
 
